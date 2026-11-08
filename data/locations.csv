@@ -1,0 +1,7 @@
+location_id,city,currency,location_factor
+LOC-001,Hyderabad,INR,1.0
+LOC-002,Bengaluru,INR,1.08
+LOC-003,Pune,INR,0.96
+LOC-004,Chennai,INR,0.98
+LOC-005,London,GBP,1.35
+LOC-006,New York,USD,1.55

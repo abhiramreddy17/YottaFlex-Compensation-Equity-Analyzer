@@ -1,0 +1,2 @@
+adjustment_id,employee_id,proposed_salary,currency,status,created_date,approved_by,reason
+ADJ-2026-000001,EMP-001001,999999,INR,APPLIED,2026-06-01,,Synthetic deliberately unapproved adjustment

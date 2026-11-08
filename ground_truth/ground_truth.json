@@ -1,0 +1,35 @@
+{
+  "seed": 20261022,
+  "labels": [
+    {
+      "employee_id": "EMP-000251",
+      "issue_type": "EXPIRED_BAND",
+      "expected_decision": "FLAG_EXPIRED_BAND",
+      "reason": "Salary record points to a band not effective on the review date."
+    },
+    {
+      "employee_id": "EMP-000501",
+      "issue_type": "FTE_IGNORED",
+      "expected_decision": "FLAG_FTE_MISMATCH",
+      "reason": "Recorded FTE differs from employee FTE."
+    },
+    {
+      "employee_id": "EMP-000751",
+      "issue_type": "MISSING_FX",
+      "expected_decision": "FLAG_MISSING_FX",
+      "reason": "No conversion rate exists for currency XYZ."
+    },
+    {
+      "employee_id": "EMP-001001",
+      "issue_type": "UNAPPROVED_ADJUSTMENT",
+      "expected_decision": "FLAG_UNAPPROVED_APPLIED_ADJUSTMENT",
+      "reason": "Applied adjustment has no approval record."
+    },
+    {
+      "employee_id": "EMP-001251",
+      "issue_type": "INCOMPARABLE_GROUP",
+      "expected_decision": "REJECT_COMPARISON",
+      "reason": "Synthetic comparison request mixes non-equivalent roles."
+    }
+  ]
+}

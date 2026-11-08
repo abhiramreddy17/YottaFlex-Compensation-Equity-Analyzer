@@ -1,0 +1,18 @@
+{
+  "valid": true,
+  "errors": [],
+  "row_counts": {
+    "roles": 10,
+    "levels": 4,
+    "locations": 6,
+    "compensation_bands": 240,
+    "employees": 5000,
+    "salary_records": 10497,
+    "performance_evidence": 5000,
+    "tenure": 5000,
+    "promotions": 208,
+    "adjustment_proposals": 1,
+    "comparison_requests": 1
+  },
+  "seed": 20261022
+}

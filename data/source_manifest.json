@@ -1,0 +1,55 @@
+{
+  "seed": 20261022,
+  "employee_count": 5000,
+  "salary_record_count": 10497,
+  "role_count": 10,
+  "level_count": 4,
+  "location_count": 6,
+  "band_count": 240,
+  "files": {
+    "roles.csv": {
+      "rows": 10,
+      "sha256": "ae0d83c558fb94a8ed961041a62b70729f0c4effff9eb1c428b1a33288236cfe"
+    },
+    "levels.csv": {
+      "rows": 4,
+      "sha256": "7fde516d02f5d4947c086c877f29e1b6c2b3d4578a5e47b3e6b0584ba55c76c8"
+    },
+    "locations.csv": {
+      "rows": 6,
+      "sha256": "06b15c97d307ed2b1e0347cbadefaf767c088e7eb213a694e1c3e7a8db71c419"
+    },
+    "compensation_bands.csv": {
+      "rows": 240,
+      "sha256": "7bacd9adc7a81c6eb37b71986b3cde645a4dc10662af56109360af9f770e9868"
+    },
+    "employees.csv": {
+      "rows": 5000,
+      "sha256": "8c88563e36bff137e65e5aa721c9b347fbc27f9eb41fede5c1b0a634ddda4cbe"
+    },
+    "salary_records.csv": {
+      "rows": 10497,
+      "sha256": "01f9b665d524820fe9bad6bc7515cec138814e5bfb1742247721927c70f7bb62"
+    },
+    "performance_evidence.csv": {
+      "rows": 5000,
+      "sha256": "41cca893f3fb115cf39b240f9d0a633df41a5bdf166a1da773147aece6dab7d1"
+    },
+    "tenure.csv": {
+      "rows": 5000,
+      "sha256": "7c4671421aa16ffbc7fafe221d3bf49366b45dcac41cce0a73d991d085ff1a56"
+    },
+    "promotions.csv": {
+      "rows": 208,
+      "sha256": "da0334be1e1133d696a6fc10a9313d9791ff8a5586dc286ec64545a586421d16"
+    },
+    "adjustment_proposals.csv": {
+      "rows": 1,
+      "sha256": "d6f288c3bb83bc7203ce06c324da9285351d978e49a52e18b4f4a4f863aaa870"
+    },
+    "comparison_requests.csv": {
+      "rows": 1,
+      "sha256": "54c1616753e3e5757dd49d1829d36f94902abe7d8f2b7ce757a2b0dd1f80b37c"
+    }
+  }
+}
